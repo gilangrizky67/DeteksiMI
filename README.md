@@ -6,6 +6,8 @@ Dataset didapatkan dari proses rekam jantung yang dilakukan di RS Hasan Sadikin,
 Dataset dapat diakses pada : 
 
 Normal : https://drive.google.com/drive/folders/17YDAeE61PoCP2f5mGX7T2ElbwoAX7gYt?usp=sharing
+
+
 MI : https://drive.google.com/drive/folders/1TUCscgChKImNjRBZYeOO6eHKJSLCz7G-?usp=share_link
 
 # Metode
