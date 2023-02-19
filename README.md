@@ -5,10 +5,7 @@ Deteksi Myocardial Infarction / Serangan jantung menggunakan Ensemble Learning b
 Dataset didapatkan dari proses rekam jantung yang dilakukan di RS Hasan Sadikin, Bandung
 Dataset dapat diakses pada : 
 
-Normal : https://drive.google.com/drive/folders/17YDAeE61PoCP2f5mGX7T2ElbwoAX7gYt?usp=sharing
-
-
-MI : https://drive.google.com/drive/folders/1TUCscgChKImNjRBZYeOO6eHKJSLCz7G-?usp=share_link
+https://drive.google.com/drive/folders/1T_baxFCQow1yIkJl2zKAA1TVI1d_grq4?usp=share_link
 
 # Metode
 
