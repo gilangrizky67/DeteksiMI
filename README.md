@@ -1,11 +1,7 @@
 # DeteksiMI
 Deteksi Myocardial Infarction / Serangan jantung menggunakan Ensemble Learning berbasis signal Phonocardiogram. 
 
-## Dataset
-Dataset didapatkan dari proses rekam jantung yang dilakukan di RS Hasan Sadikin, Bandung
-Dataset dapat diakses pada : 
 
-https://drive.google.com/drive/folders/1T_baxFCQow1yIkJl2zKAA1TVI1d_grq4?usp=share_link
 
 # Metode
 
